@@ -11,17 +11,15 @@ My professional direction is quality engineering for financial technology: under
 
 [Explore the projects](#flagship-projects) · [Review the evidence](#business-analysis-with-a-traceable-test-path) · [Connect on LinkedIn](https://www.linkedin.com/in/rehmatullahwadi/)
 
-| Focus | Portfolio evidence |
-| :--- | :--- |
-| Software QA / SQA | Functional, regression, API, database and browser testing |
-| Automation | Python · Pytest · Playwright · Postman / Newman |
-| Business Analysis | Requirements · Acceptance criteria · Workflow analysis · Traceability |
-| Domain direction | Banking · FinTech · Trade Finance |
-| Delivery workflow | Git · GitHub Actions · Automated CI quality gates |
+<p>
+  <img src="assets/api-testing.svg" width="380" alt="API Testing: REST, Postman and Newman" />
+  <img src="assets/data-validation.svg" width="380" alt="Data Validation: SQL, integrity and business rules" />
+  <img src="assets/quality-workflow.svg" width="380" alt="Quality Workflow: requirements, automation and CI" />
+</p>
 
 ## Flagship projects
 
-### [AccordFlow](https://github.com/rehmatwadii/accordflow)
+<a href="https://github.com/rehmatwadii/accordflow"><img src="assets/accordflow.svg" width="760" alt="AccordFlow: trade finance, evidence and controlled approvals" /></a>
 
 **Trade finance document verification, built around explainable quality controls.**
 
@@ -44,7 +42,7 @@ A synthetic documentary-credit demonstration connecting document evidence, busin
 
 > Synthetic demonstration data only. No real bank deployment, customer transactions or regulatory certification is claimed. [Implementation boundaries](https://github.com/rehmatwadii/accordflow/blob/main/docs/IMPLEMENTATION_STATUS.md) and [production gaps](https://github.com/rehmatwadii/accordflow/blob/main/docs/PRODUCTION_GAP_ANALYSIS.md) are documented.
 
-### [Hydro-Hitch](https://github.com/rehmatwadii/Hydro-Hitch)
+<a href="https://github.com/rehmatwadii/Hydro-Hitch"><img src="assets/hydro-hitch.svg" width="760" alt="Hydro-Hitch: booking integrity, access and regression testing" /></a>
 
 **Water-delivery workflows, tested for booking integrity and controlled access.**
 
@@ -58,7 +56,7 @@ A systems-focused retrofit spanning customers, drivers, dispatchers and administ
 
 [API regression suite](https://github.com/rehmatwadii/Hydro-Hitch/blob/main/server/tests/api.test.js) · [Browser tests](https://github.com/rehmatwadii/Hydro-Hitch/tree/main/tests/e2e) · [Verification evidence](https://github.com/rehmatwadii/Hydro-Hitch/tree/main/docs/verification) · [Retrofit report & limitations](https://github.com/rehmatwadii/Hydro-Hitch/blob/main/docs/RETROFIT_REPORT.md) · [Before & after](https://github.com/rehmatwadii/Hydro-Hitch/tree/main/docs/comparison)
 
-### [QAForge](https://github.com/rehmatwadii/-qaforge)
+<a href="https://github.com/rehmatwadii/-qaforge"><img src="assets/qaforge.svg" width="760" alt="QAForge: investigate, reproduce, verify and decide" /></a>
 
 **An interactive SQA career simulator: investigate, reproduce, verify, and decide.**
 
