@@ -58,13 +58,37 @@ A systems-focused retrofit spanning customers, drivers, dispatchers and administ
 
 [API regression suite](https://github.com/rehmatwadii/Hydro-Hitch/blob/main/server/tests/api.test.js) · [Browser tests](https://github.com/rehmatwadii/Hydro-Hitch/tree/main/tests/e2e) · [Verification evidence](https://github.com/rehmatwadii/Hydro-Hitch/tree/main/docs/verification) · [Retrofit report & limitations](https://github.com/rehmatwadii/Hydro-Hitch/blob/main/docs/RETROFIT_REPORT.md) · [Before & after](https://github.com/rehmatwadii/Hydro-Hitch/tree/main/docs/comparison)
 
+### [QAForge](https://github.com/rehmatwadii/-qaforge)
+
+**An interactive SQA career simulator: investigate, reproduce, verify, and decide.**
+
+A practical QA learning environment spanning three fictional products: ShopSphere commerce, FinEdge transfers, and RelayDesk expense approvals. Learners review requirements, design test cases, report reproducible defects, investigate APIs and data, repair automation, and make evidence-based release decisions.
+
+- **QA relevance:** acceptance-criteria review, boundary testing, defect evidence, authorization risks, payment retries, regression design and release judgment.
+- **Hands-on labs:** simulated HTTP requests, real read-only SQLite queries, constrained Playwright-style automation, pipeline repair, incident investigation and independent assessments.
+- **Repository testing:** Vitest unit tests and real Playwright browser tests covering career progression, assessment submissions, save/reload and responsive workflows; GitHub Actions runs build, typecheck and test checks.
+- **Engineering:** Next.js, React, TypeScript, Monaco Editor and browser-based SQLite (sql.js).
+
+[![QAForge build and test status](https://github.com/rehmatwadii/-qaforge/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/rehmatwadii/-qaforge/actions/workflows/ci.yml)
+
+[Player guide](https://github.com/rehmatwadii/-qaforge/blob/main/docs/GAMEPLAY.md) | [Test suites](https://github.com/rehmatwadii/-qaforge/tree/main/tests) | [Screenshot gallery](https://github.com/rehmatwadii/-qaforge/blob/main/docs/SCREENSHOTS.md) | [Scope & limitations](https://github.com/rehmatwadii/-qaforge#current-scope)
+
+<details>
+<summary>See the QAForge career workstation</summary>
+
+![QAForge workstation showing a fictional QA career and investigation workspaces](https://raw.githubusercontent.com/rehmatwadii/-qaforge/main/docs/screenshots/01-home.png)
+
+</details>
+
+> Fictional training scenarios. In-game HTTP, Git, automation and load tools are constrained simulations; SQL runs on a real SQLite engine. Simulated career outcomes are not employment experience or professional certification.
+
 ## Quality Engineering Toolkit
 
 | Discipline | Demonstrated in the portfolio |
 | :--- | :--- |
 | **Software Testing** | Functional and regression scenarios, test case design, negative paths, defect documentation |
 | **API & Data** | REST APIs, JSON assertions, Postman / Newman, SQL integrity checks, database validation |
-| **Test Automation** | Python / Pytest, Playwright, Node.js test runner, Supertest |
+| **Test Automation** | Python / Pytest, Playwright, Vitest, Node.js test runner, Supertest |
 | **Security Controls** | Authorization, ownership isolation, input validation, session and workflow regression tests |
 | **Quality Workflow** | Git, GitHub, CI quality gates, test reports, documented verification limits |
 | **Business Analysis** | Business and software requirements, acceptance criteria, business processes, traceability |
@@ -88,10 +112,10 @@ AccordFlow provides a direct path from business intent to test evidence:
 | Layer | Technologies used in the featured repositories |
 | :--- | :--- |
 | Languages | Python · JavaScript · TypeScript · SQL |
-| Frontend | React · Vite |
+| Frontend | React · Next.js · Vite |
 | Backend | FastAPI · Node.js · Express |
 | Data | PostgreSQL configuration · SQLite · MongoDB · SQLAlchemy |
-| Testing | Pytest · Playwright · Postman / Newman · Supertest · axe |
+| Testing | Vitest · Pytest · Playwright · Postman / Newman · Supertest · axe |
 | Tools | Git · GitHub Actions · Docker · Alembic |
 
 ## Currently strengthening
