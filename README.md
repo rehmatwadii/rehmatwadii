@@ -167,6 +167,9 @@ Open to opportunities across **Software QA, Business Analysis, Banking Technolog
 
 [![GitHub profile](https://img.shields.io/badge/GitHub-rehmatwadii-16243B?style=flat-square&logo=github&logoColor=white)](https://github.com/rehmatwadii)
 [![LinkedIn profile](https://img.shields.io/badge/LinkedIn-Connect-0969DA?style=flat-square)](https://www.linkedin.com/in/rehmatullahwadi/)
+[![Email via Gmail](assets/badges/gmail.svg)](mailto:rehmatullahshahid@gmail.com)
+
+Email: [rehmatullahshahid@gmail.com](mailto:rehmatullahshahid@gmail.com)
 
 ---
 
