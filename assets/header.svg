@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 224" role="img" aria-labelledby="title desc">
+<title id="title">Quality through evidence</title>
+<desc id="desc">Software QA and Business Analysis for Banking and FinTech. An animated line types API testing, SQL and automation.</desc>
+<defs><linearGradient id="line"><stop stop-color="#38bdf8"/><stop offset=".65" stop-color="#2dd4bf"/><stop offset="1" stop-color="#a78bfa"/></linearGradient><clipPath id="typing"><rect class="reveal" x="36" y="146" width="650" height="36"/></clipPath></defs>
+<style>
+text{font-family:Segoe UI,Arial,sans-serif}.reveal{animation:type 10s ease-in-out infinite}.cursor{animation:blink 1s step-end infinite}@keyframes type{0%,8%{width:0}45%,90%{width:650}100%{width:0}}@keyframes blink{50%{opacity:0}}@media(prefers-reduced-motion:reduce){.reveal,.cursor{animation:none}.cursor{opacity:0}}
+</style>
+<rect width="800" height="224" rx="16" fill="#0c1729"/>
+<path d="M36 29H764" stroke="url(#line)" stroke-width="3"/>
+<text x="36" y="85" fill="#f0f6fc" font-size="40" font-weight="700" letter-spacing="-1">Quality through evidence.</text>
+<text x="36" y="126" fill="#b9c9df" font-size="23">Software QA · Business Analysis · Banking &amp; FinTech</text>
+<g clip-path="url(#typing)"><text x="36" y="173" fill="#5eead4" font-size="25" font-weight="600">API testing · SQL · Automation</text></g>
+<path d="M36 199H764" stroke="#26374e"/>
+<circle cx="745" cy="169" r="5" fill="#38bdf8" class="cursor"/>
+</svg>
