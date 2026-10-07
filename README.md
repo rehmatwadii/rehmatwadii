@@ -12,14 +12,29 @@ My professional direction is quality engineering for financial technology: under
 [Explore the projects](#flagship-projects) · [Review the evidence](#business-analysis-with-a-traceable-test-path) · [Connect on LinkedIn](https://www.linkedin.com/in/rehmatullahwadi/)
 
 <p>
-  <img src="assets/api-testing.svg" width="380" alt="API Testing: REST, Postman and Newman" />
-  <img src="assets/data-validation.svg" width="380" alt="Data Validation: SQL, integrity and business rules" />
-  <img src="assets/quality-workflow.svg" width="380" alt="Quality Workflow: requirements, automation and CI" />
+  <img src="assets/api-testing.svg" width="154" alt="API Testing: REST, Postman and Newman" />
+  <img src="assets/data-validation.svg" width="154" alt="Data Validation: SQL, integrity and business rules" />
+  <img src="assets/quality-workflow.svg" width="154" alt="Quality Workflow: requirements, automation and CI" />
+</p>
+
+<p>
+  <img src="assets/badges/postman.svg" height="23" alt="Postman" />
+  <img src="assets/badges/sql.svg" height="23" alt="SQL" />
+  <img src="assets/badges/pytest.svg" height="23" alt="Pytest" />
+  <img src="assets/badges/playwright.svg" height="23" alt="Playwright" />
+  <img src="assets/badges/github-actions.svg" height="23" alt="GitHub Actions" />
 </p>
 
 ## Flagship projects
 
-<a href="https://github.com/rehmatwadii/accordflow"><img src="assets/accordflow.svg" width="760" alt="AccordFlow: trade finance, evidence and controlled approvals" /></a>
+<a href="https://github.com/rehmatwadii/accordflow"><img src="assets/accordflow.svg" width="340" alt="AccordFlow: trade finance, evidence and controlled approvals" /></a>
+
+<p>
+  <img src="assets/badges/python.svg" height="23" alt="Python" />
+  <img src="assets/badges/fastapi.svg" height="23" alt="FastAPI" />
+  <img src="assets/badges/pytest.svg" height="23" alt="Pytest" />
+  <img src="assets/badges/docker.svg" height="23" alt="Docker" />
+</p>
 
 **Trade finance document verification, built around explainable quality controls.**
 
@@ -42,7 +57,14 @@ A synthetic documentary-credit demonstration connecting document evidence, busin
 
 > Synthetic demonstration data only. No real bank deployment, customer transactions or regulatory certification is claimed. [Implementation boundaries](https://github.com/rehmatwadii/accordflow/blob/main/docs/IMPLEMENTATION_STATUS.md) and [production gaps](https://github.com/rehmatwadii/accordflow/blob/main/docs/PRODUCTION_GAP_ANALYSIS.md) are documented.
 
-<a href="https://github.com/rehmatwadii/Hydro-Hitch"><img src="assets/hydro-hitch.svg" width="760" alt="Hydro-Hitch: booking integrity, access and regression testing" /></a>
+<a href="https://github.com/rehmatwadii/Hydro-Hitch"><img src="assets/hydro-hitch.svg" width="340" alt="Hydro-Hitch: booking integrity, access and regression testing" /></a>
+
+<p>
+  <img src="assets/badges/react.svg" height="23" alt="React" />
+  <img src="assets/badges/mongodb.svg" height="23" alt="MongoDB" />
+  <img src="assets/badges/playwright.svg" height="23" alt="Playwright" />
+  <img src="assets/badges/docker.svg" height="23" alt="Docker" />
+</p>
 
 **Water-delivery workflows, tested for booking integrity and controlled access.**
 
@@ -56,7 +78,14 @@ A systems-focused retrofit spanning customers, drivers, dispatchers and administ
 
 [API regression suite](https://github.com/rehmatwadii/Hydro-Hitch/blob/main/server/tests/api.test.js) · [Browser tests](https://github.com/rehmatwadii/Hydro-Hitch/tree/main/tests/e2e) · [Verification evidence](https://github.com/rehmatwadii/Hydro-Hitch/tree/main/docs/verification) · [Retrofit report & limitations](https://github.com/rehmatwadii/Hydro-Hitch/blob/main/docs/RETROFIT_REPORT.md) · [Before & after](https://github.com/rehmatwadii/Hydro-Hitch/tree/main/docs/comparison)
 
-<a href="https://github.com/rehmatwadii/-qaforge"><img src="assets/qaforge.svg" width="760" alt="QAForge: investigate, reproduce, verify and decide" /></a>
+<a href="https://github.com/rehmatwadii/-qaforge"><img src="assets/qaforge.svg" width="340" alt="QAForge: investigate, reproduce, verify and decide" /></a>
+
+<p>
+  <img src="assets/badges/nextjs.svg" height="23" alt="Next.js" />
+  <img src="assets/badges/typescript.svg" height="23" alt="TypeScript" />
+  <img src="assets/badges/vitest.svg" height="23" alt="Vitest" />
+  <img src="assets/badges/playwright.svg" height="23" alt="Playwright" />
+</p>
 
 **An interactive SQA career simulator: investigate, reproduce, verify, and decide.**
 
